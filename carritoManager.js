@@ -50,6 +50,7 @@ class carritoManager {
     }
   }
 
+  //hola
   async addProduct({ cid: carritoId, pid: productId }) {
     try {
       const arrayC = await this.readFromFile();
