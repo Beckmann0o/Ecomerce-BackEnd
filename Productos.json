@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Producto de prueba 2",
+    "description": "Este es un producto de prueba 3",
+    "code": "p02",
+    "price": 3232,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "https://www.example.com/images/product1_1.jpg",
+      "https://www.example.com/images/product1_2.jpg"
+    ],
+    "id": 2
+  }
+]
